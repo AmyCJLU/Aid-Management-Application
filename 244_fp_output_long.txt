@@ -1,0 +1,375 @@
+Script started on Mon 31 Jul 2017 11:17:41 PM EDT
+fardad.soleimanloo@matrix:~/sfiles/244fptester> fp
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 1
+
+ Row | SKU    | Product Name       | Cost  | QTY| Unit     |Need| Expiry   
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+   3 | 124    |Corn                |   4.00|   0|Packs     | 140|2018/04/03
+   4 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   5 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+   6 | 111    |Water Container     |  12.79| 500|packs     |5000|
+   7 | 1111   |Milk                |   3.99|  10|bag       | 100|2017/09/20
+---------------------------------------------------------------------------
+Total cost of support: $8204.21
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> -1
+
+===Invalid Selection, try again.===
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 6
+
+===Invalid Selection, try again.===
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 2
+
+Please enter the SKU: abc
+
+Not found!
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 2
+
+Please enter the SKU: 132
+
+Sku: 132
+Name: Banana
+Price: 0.99
+Price after tax: N/A
+Quantity On Hand: 6 Kilos
+Quantity Needed: 10
+Expiry date: 2015/05/13
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 2
+
+Please enter the SKU: 1111
+
+Sku: 1111
+Name: Milk
+Price: 3.99
+Price after tax: N/A
+Quantity On Hand: 10 bag
+Quantity Needed: 100
+Expiry date: 2017/09/20
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 3
+
+Sku: 1234
+Name: Tent
+Unit: 
+Taxed? (y/n): y
+Price: 120.33
+Quantity On hand: 20
+Quantity Needed: 200
+
+Product added
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 1
+
+ Row | SKU    | Product Name       | Cost  | QTY| Unit     |Need| Expiry   
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+   3 | 124    |Corn                |   4.00|   0|Packs     | 140|2018/04/03
+   4 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   5 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+   6 | 111    |Water Container     |  12.79| 500|packs     |5000|
+   7 | 1111   |Milk                |   3.99|  10|bag       | 100|2017/09/20
+   8 | 1234   |Tent                | 135.97|  20|          | 200|
+---------------------------------------------------------------------------
+Total cost of support: $10923.67
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): a
+Only (Y)es or (N)o are acceptable
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: a
+Invalid Price Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: 1
+Quantity On hand: a
+Invalid Quantity Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: 1
+Quantity On hand: 1
+Quantity Needed: a
+Invalid Quantity Needed Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: 1
+Quantity On hand: 1
+Quantity Needed: 1
+Expiry date (YYYY/MM/DD): 12/12/12
+Invalid Year in Date Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: 1
+Quantity On hand: 1
+Quantity Needed: 1
+Expiry date (YYYY/MM/DD): 2010/13/10
+Invalid Month in Date Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: a
+Name: a
+Unit: a
+Taxed? (y/n): y
+Price: 1
+Quantity On hand: 1
+Quantity Needed: 1
+Expiry date (YYYY/MM/DD): 2010/10/100
+Invalid Day in Date Entry
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 4
+
+Sku: 2345
+Name: Flu Vaccine
+Unit: Boxes
+Taxed? (y/n): n
+Price: 12.34
+Quantity On hand: 0
+Quantity Needed: 5000
+Expiry date (YYYY/MM/DD): 2018/12/12
+
+Product added
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 1
+
+ Row | SKU    | Product Name       | Cost  | QTY| Unit     |Need| Expiry   
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+   3 | 124    |Corn                |   4.00|   0|Packs     | 140|2018/04/03
+   4 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   5 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+   6 | 111    |Water Container     |  12.79| 500|packs     |5000|
+   7 | 1111   |Milk                |   3.99|  10|bag       | 100|2017/09/20
+   8 | 1234   |Tent                | 135.97|  20|          | 200|
+   9 | 2345   |Flu Vaccine         |  12.34|   0|Boxes     |5000|2018/12/12
+---------------------------------------------------------------------------
+Total cost of support: $10923.67
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 5
+
+Please enter the SKU: 1234
+
+Sku: 1234
+Name: Tent
+Price: 120.33
+Price after tax: 135.97
+Quantity On Hand: 20 
+Quantity Needed: 200
+
+Please enter the number of purchased items: 100
+
+Updated!
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 1
+
+ Row | SKU    | Product Name       | Cost  | QTY| Unit     |Need| Expiry   
+-----|--------|--------------------|-------|----|----------|----|----------
+   1 | 132    |Banana              |   0.99|   6|Kilos     |  10|2015/05/13
+   2 | 122    |Bucket              |  11.30| 150|          | 300|
+   3 | 124    |Corn                |   4.00|   0|Packs     | 140|2018/04/03
+   4 | 200    |Sand Bags           |   3.38|  20|packs     |1000|
+   5 | 5678   |Sugar               |   6.78|   0|1kg Bags  | 200|
+   6 | 111    |Water Container     |  12.79| 500|packs     |5000|
+   7 | 1111   |Milk                |   3.99|  10|bag       | 100|2017/09/20
+   8 | 1234   |Tent                | 135.97| 120|          | 200|
+   9 | 2345   |Flu Vaccine         |  12.34|   0|Boxes     |5000|2018/12/12
+---------------------------------------------------------------------------
+Total cost of support: $24520.96
+
+Press Enter to continue...
+
+Disaster Aid Supply Management Program
+1- List products
+2- Display product
+3- Add non-perishable product
+4- Add perishable product
+5- Add to quantity of purchased products
+0- Exit program
+> 0
+
+Goodbye!!
+fardad.soleimanloo@matrix:~/sfiles/244fptester> exit
+exit
+
+Script done on Mon 31 Jul 2017 11:26:55 PM EDT
